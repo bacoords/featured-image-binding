@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: My Featured Image Binding
- * Description: This plugin binds a featured image to a specific section.
+ * Plugin Name: Featured Image Lightbox Block
+ * Description: Example of the block bindings API that creates a new "Image Block" that pulls the featured image from the post and gives it a lightbox effect.
  * Version: 1.0.0
  * Author: Brian Coords
  * Author URI: https://briancoords.com
